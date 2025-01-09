@@ -27,6 +27,8 @@ button{
     margin-bottom: 2rem;
     width:7rem;
     height:2rem;
+    color:white;
+    border: 2px solid black;
     border-radius: 15px;
     margin-right: 1.5rem;
 }
@@ -54,11 +56,11 @@ button:hover{
 
 #mybutton1{
     background-color: black;
-    color: white;
+    
 }
 #mybutton2{
     background-color: green;
-    color: white;
+    
 }
 
 
