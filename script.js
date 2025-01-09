@@ -1,8 +1,8 @@
 let bt1=document.querySelector("#mybutton1");
 let bt2=document.querySelector("#mybutton2");
 let cd=document.querySelector(".copyCode");
-let rgb1="rgb(92,145,229)";
-let rgb2="rgb(152,63,198)";
+let rgb1="#5C91E5";
+let rgb2="#983FC6";
 
 
 let hexValues=()=>{
